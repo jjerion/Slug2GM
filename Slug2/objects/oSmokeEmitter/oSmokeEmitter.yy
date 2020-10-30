@@ -18,7 +18,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"oParticleEmitter","path":"objects/oParticleEmitter/oParticleEmitter.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"oSmokeEmitter","path":"objects/oSmokeEmitter/oSmokeEmitter.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -27,7 +27,7 @@
     "path": "Slug2.yyp",
   },
   "resourceVersion": "1.0",
-  "name": "oParticleEmitter",
+  "name": "oSmokeEmitter",
   "tags": [],
   "resourceType": "GMObject",
 }

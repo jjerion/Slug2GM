@@ -1,6 +1,9 @@
 {
   "resources": [
+    {"id":{"name":"sTextbox","path":"sprites/sTextbox/sTextbox.yy",},"order":0,},
     {"id":{"name":"oParticleEmitter","path":"objects/oParticleEmitter/oParticleEmitter.yy",},"order":15,},
+    {"id":{"name":"oTextField","path":"objects/oTextField/oTextField.yy",},"order":17,},
+    {"id":{"name":"oSmokeEmitter","path":"objects/oSmokeEmitter/oSmokeEmitter.yy",},"order":16,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
