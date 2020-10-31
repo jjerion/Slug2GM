@@ -2,6 +2,8 @@
   "resources": [
     {"id":{"name":"rGallery","path":"rooms/rGallery/rGallery.yy",},"order":1,},
     {"id":{"name":"sWallBG","path":"sprites/sWallBG/sWallBG.yy",},"order":3,},
+    {"id":{"name":"oTransition","path":"objects/oTransition/oTransition.yy",},"order":8,},
+    {"id":{"name":"SlideTransition","path":"scripts/SlideTransition/SlideTransition.yy",},"order":0,},
     {"id":{"name":"oMenu","path":"objects/oMenu/oMenu.yy",},"order":4,},
     {"id":{"name":"sTextbox","path":"sprites/sTextbox/sTextbox.yy",},"order":0,},
     {"id":{"name":"oFullScreenButton","path":"objects/oFullScreenButton/oFullScreenButton.yy",},"order":5,},
@@ -14,6 +16,7 @@
     {"id":{"name":"rDragon","path":"rooms/rDragon/rDragon.yy",},"order":5,},
     {"id":{"name":"oAudio","path":"objects/oAudio/oAudio.yy",},"order":6,},
     {"id":{"name":"rSquid","path":"rooms/rSquid/rSquid.yy",},"order":3,},
+    {"id":{"name":"fMenu","path":"fonts/fMenu/fMenu.yy",},"order":0,},
     {"id":{"name":"rRay","path":"rooms/rRay/rRay.yy",},"order":4,},
     {"id":{"name":"rJellyfish","path":"rooms/rJellyfish/rJellyfish.yy",},"order":2,},
     {"id":{"name":"oRiddle","path":"objects/oRiddle/oRiddle.yy",},"order":0,},
