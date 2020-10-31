@@ -5,6 +5,7 @@
     {"id":{"name":"oFullScreenButton","path":"objects/oFullScreenButton/oFullScreenButton.yy",},"order":5,},
     {"id":{"name":"oParticleEmitter","path":"objects/oParticleEmitter/oParticleEmitter.yy",},"order":1,},
     {"id":{"name":"oTextField","path":"objects/oTextField/oTextField.yy",},"order":3,},
+    {"id":{"name":"oAudio","path":"objects/oAudio/oAudio.yy",},"order":6,},
     {"id":{"name":"oRiddle","path":"objects/oRiddle/oRiddle.yy",},"order":0,},
     {"id":{"name":"oSmokeEmitter","path":"objects/oSmokeEmitter/oSmokeEmitter.yy",},"order":2,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
