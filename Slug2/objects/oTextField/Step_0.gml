@@ -8,6 +8,7 @@ else
 	
 if (keyboard_string == "ice") {
      // what to do if the text is right
+	 //ADD CUTSCENE HERE
 } else {
      // what to do if the text is wrong
 }

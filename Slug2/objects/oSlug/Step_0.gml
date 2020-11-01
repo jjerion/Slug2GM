@@ -9,11 +9,13 @@ if(mouse_check_button(mb_left)){
 	xvel = 0;
 	yvel = 0;
 	
+	
+	
 	//set sprite to show slug building up to move
-	sprite_index = sContract;
-	if(image_index >= 2) {
-		image_speed = 0;
-		}
+	//sprite_index = sContract;
+	//if(image_index >= 2) {
+		//image_speed = 0;
+		//}
 
 }
 
@@ -25,10 +27,10 @@ if(mouse_check_button_released(mb_left)){
 	yvel = -sin(degtorad(image_angle)) * slugspeed;
 	
 	//set sprite to slug releasing
-	sprite_index = sRelease;
-	if(image_index >= 2){
-		image_speed = 0;
-	}
+	//sprite_index = sRelease;
+	//if(image_index >= 2){
+		//image_speed = 0;
+	//}
 
 }
 
